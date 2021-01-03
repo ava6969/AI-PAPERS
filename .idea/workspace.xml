@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8078b961-1616-445f-b5f8-0beb37cd6e06" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1411.4555.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1502.03044.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1502.03167.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1507.05738.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1507.08240.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1510.01378.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1511.06434.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1512.02595v1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1512.03385.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1602.06023.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1607.05910.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1609.03499.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1609.08144.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1611.07004.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1701.02720.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1703.00096.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1703.10593.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1707.07998.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1708.02711.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1711.11585.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1712.03451.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/1802.10151.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/5423-generative-adversarial-nets.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/CTC-Dec07.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/Deep Residual Learning for Image Recognition.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/MAGIC Maker Program CFP Fall 2201.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/S19-04.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/V4I3201545.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/YOLOv3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/asru_2013.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/ba_dls_speech2016.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/icml_2006.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/improved-training-techniques.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeepLearning/interspeech2015-waveform_cldnn.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deterministic Policy Gradients/DDPG.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deterministic Policy Gradients/DPG.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deterministic Policy Gradients/TD3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Distributional RL/1912.01588.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Distributional RL/Distributional Reinforcement Learning with Quantile Regression.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImitationLearning/1604.06778.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImitationLearning/1606.03476.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImitationLearning/1810.00821.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImitationLearning/1810.05017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImitationLearning/2018_TOG_DeepMimic.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImitationLearning/end-to-end-dl-using-px.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenAI Research/. An empirical model of large-batch.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenAI Research/A_comparative_study_of_visual_and_auditory_reactio.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenAI Research/Distributed Prioritized Experience Replay.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenAI Research/Emergent Tool Use from multi-agent autocurricula.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenAI Research/Emergent complexity via Multi-Agent Competition.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenAI Research/Gray, S., Radford, A. &amp; Kingma, D. P. GPU Kernels for Block-Sparse Weights 2017..pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenAI Research/Learning Dexterity.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenAI Research/Mastering the game of go without human knowledge.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenAI Research/Net2Net_ACCELERATING LEARNING.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenAI Research/dota-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenAI Research/intrinsic_motivation_and_automatic_curricula_via_asymmetric_self_play.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Policy-Gradient/A3C.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Policy-Gradient/ACER.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Policy-Gradient/GAE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Policy-Gradient/PPO-PENALTY.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Policy-Gradient/SAC.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Policy-Gradient/TRPO.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robots/1711.06396.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robots/1802.01235.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robots/1802.08755.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robots/2356.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robots/Chavez15.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robots/EJAET-2-2-34-39.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robots/Fastmultipleobjectsdetectionandtrackingfusingcolorcameraand3DLIDARforintelligentvehicles.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robots/J2008_IEEE_TIM_Stereo Kalman .pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robots/Luo_Fast_and_Furious_CVPR_2018_paper.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robots/bf3df3126d2923a617b977ec2b4e1c829a08.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robots/grisetti10titsmag.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Robots/thrun.graphslam.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/A Multi-objective Deep Reinforcement Learning Approach for Stock Index Future’s Intraday Trading.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/A Multiagent Approach to Q-Learning.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/Adversarial deep reinforcement learning in portfolio management.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/Deep Direct Reinforcement Learning for Financial.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/Deep Reinforcement Learning for Automated.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/Deep Reinforcement Learning for Financial Trading Using Price Trailing.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/Gyeeun Jeong and Ha Kim, “Improving financial trading decisions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/Jinke Li, Ruonan Rao, and Jun Shi, Learning to trade with.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/Learning to trade via direct.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/Learning to trade with deep Actor critic.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/Practical Deep Reinforcement Learning Approach for Stock Trading.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/Quang-Vinh Dang Reinforcement learning in stock trading.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/Reinforcement Learning Applications in Real Time Trading.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/Reinforcement_Learning_in_Financial_Markets.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/fuzzy NN/94tfsfuzzyuncertainty.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/fuzzy NN/G. J. Klir and T. A. Folger, Fuzzy Sets, Uncertainty, and Information..pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/fuzzy NN/Neural-network-based fuzzy logic control and decision system.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/fuzzy NN/Self-constructing fuzzy neural network speed controller for permanent-magnet synchronous motor drive.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/fuzzy NN/Sparse coding-inspired optimal Trading System for HFT Industry.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/fuzzy NN/“Supportvector-based fuzzy neural network for pattern classification.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/models/Stock Price Prediction Using Attention-based Multi-Input.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/models/applied attention lstm.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/models/attention models.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/next reads/An_empirical_investigation_of_the_challenges_of_re.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/next reads/Bruce_Practical_Stock_Recommendation_TrustCom_2018.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/next reads/DP-LSTM Differential Privacy-inspired LSTM for Stock prediction using financial news.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/next reads/FinRL A Deep Reinforcement Learning Library for Automated Stock Trading in Qunatitative Finanace.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/next reads/Multi-Agent Deep Reinforcement Learning for Liquidation Strategy Analysis.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/next reads/Supervised Reinforcement Learning with Recurrent Neural Network for Dynamic Treatment Recommendation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/next reads/largeScaleCuriosity2018.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TradingBotPapers/rl for optimized trade execution.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ValueBasedDRL/Dueling Network Architectures for Deep Reinforcement Learning.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ValueBasedDRL/Playing Atari with Deep Reinforcement Learning.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ValueBasedDRL/Prioritized Experience Replay.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ValueBasedDRL/Williams1992_Article_SimpleStatisticalGradient-foll_REINFORCE.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mRJN91yjPdLfQJRUzSJIsVjL8K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="pdf-rename" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AI-PAPERS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pdfrename" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pdfrename/pdf-rename.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pdf-rename" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8078b961-1616-445f-b5f8-0beb37cd6e06" name="Default Changelist" comment="" />
+      <created>1609450427469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609450427469</updated>
+      <workItem from="1609450429195" duration="1822000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AI_PAPERS$pdf_rename.coverage" NAME="pdf-rename Coverage Results" MODIFIED="1609451462164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pdfrename" />
+  </component>
+</project>
